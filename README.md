@@ -16,3 +16,5 @@ Check the [Docs](http://gridster.digitalmind.ch/documentation/) out.
 ### Feedback, Wishes, Problems
 If you run into any trouble or have a request please do so by opening up an issue on the theme's GitHub page.
 If you just want to give us a general feedback feel free to [contact us!](http://digitalmind.ch/contact/)
+
+http://flummox-engineering.blogspot.com/2014/05/you-dont-have-write-permissions-for.html

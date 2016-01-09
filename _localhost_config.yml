@@ -1,9 +1,9 @@
 full_rebuild: true
-name: MashRoad
-description: Cheap Road experience
+name: MashRoad Blog
+description: Cheap Ride experience
 destination: jekyllbuild
-url: #place url
-baseurl: #place folder name if site is served in subfolder
+url: localhost:4000
+baseurl: ""
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
