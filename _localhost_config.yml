@@ -1,6 +1,6 @@
 full_rebuild: true
-name: MashRoad Blog
-description: Cheap Ride experience
+name: ConnectYo
+description: Transforming your community
 destination: jekyllbuild
 url: localhost:4000
 baseurl: ""
