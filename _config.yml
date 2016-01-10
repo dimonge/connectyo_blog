@@ -2,7 +2,7 @@ full_rebuild: true
 name: ConnectYo
 description: Transforming your community
 destination: jekyllbuild
-url: http://dimonge.github.io/connectyo_blog
+url: blog.connectyo.com
 baseurl: ""
 permalink: /:title/
 paginate: 8
