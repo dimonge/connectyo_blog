@@ -1,4 +1,4 @@
-@import "toolbox/all";
+//@import "toolbox/all";
 
 @import "base/settings";
 @import "base/typography";
@@ -6,9 +6,7 @@
 @import "assets/font-awesome";
 
 // add your palette here
-// @import "toolbox/palettes/brown";
-// @import "toolbox/palettes/green";
-// @import "toolbox/palettes/teal";
+@import "toolbox/palettes/green";
 
 @import "base/reset";
 @import "base/base-style";
