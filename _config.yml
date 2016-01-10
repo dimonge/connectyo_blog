@@ -3,7 +3,7 @@ name: ConnectYo
 description: Transforming your community
 destination: jekyllbuild
 url: http://dimonge.github.io/connectyo_blog
-baseurl: #place folder name if site is served in subfolder
+baseurl: ""
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
