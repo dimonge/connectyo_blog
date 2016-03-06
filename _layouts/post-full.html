@@ -36,7 +36,7 @@
                             {% endif %}
                         {% endif %}
 
-                        <h1 class="post-title">
+                        <h1 style="font-size: 2em; font-family: 'Roboto';" class="post-title">
                             {{ page.title }}
                         </h1>
                         <div class="meta">
@@ -50,7 +50,7 @@
                                 <img class="featimg" src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}/{{ page.featimg }}" alt="{{ page.featimg }}">
                             {% endif %}
                         {% endif %}
-                        <div class="post-content">
+                        <div style="font-size: 1em; font-family: 'Open Sans';" class="post-content">
                             {{ content }}
                         </div>
                         {% if page.category or page.tags %}
@@ -87,6 +87,6 @@
             </div>
         </div>
         {% include footer.html %}
-        
+
     </body>
 </html>
